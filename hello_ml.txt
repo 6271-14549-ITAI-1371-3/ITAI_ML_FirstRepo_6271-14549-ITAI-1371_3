@@ -1,2 +1,16 @@
 This is my first GitHub file for the Classic Machine Learning course.
+
 Hello from Luis Adrian
+
+
+
+Hello from Malcolm McKenzie
+
+
+Hello from John Grubbs
+
+
+
+
+
+Hello from Keira Burdine

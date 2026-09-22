@@ -11,3 +11,9 @@ Deliverables Guidelines for all projects: labs, assignments, exams
 4. Only one person from the group uploads the Git repo link. You need to designate one person to upload from group
 5. Upload one program, one contribution journal and one reflection journal, unless otherwise specified
 6. Do not submit deliverables directly in Canvas; just submit the git repo link. Make sure you keep the git repo open to PUBLIC, so I can access it
+
+reflection journal: https://docs.google.com/document/d/140J0CS72laFUxcEznh5e-te_Iu0bxQD3X-K7sH9IHMU/edit?tab=t.0
+
+notebook: https://docs.google.com/document/d/1NJ-3tDlmHyrJriRtn8tLlWELdIzfzq6Fhy5cxsOoAGU/edit?tab=t.0
+
+contribution journal: https://docs.google.com/document/d/1feYmG2Gvl3ZS4j4iNz9mRPINiw8-QY4YNAMQleMUqiM/edit?tab=t.0
